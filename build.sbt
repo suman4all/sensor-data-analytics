@@ -4,8 +4,8 @@ name := "sensor-data-analytics"
 
 ThisBuild / version := "1.0.0"
 ThisBuild / scalaVersion := "2.12.12"
-ThisBuild / organization := "com.DXCLuxoft"
-ThisBuild / organizationName := "DXC Luxoft"
+ThisBuild / organization := "com.org"
+ThisBuild / organizationName := "Sample Organization"
 ThisBuild / useCoursier := false
 
 //scalacOptions := Seq("-unchecked", "-deprecation", "-Yrangepos", "-Ywarn-unused-import")
